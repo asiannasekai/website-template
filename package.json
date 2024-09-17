@@ -1,6 +1,7 @@
 {
   "name": "nextjs-blog-cms-sanity-v3",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "next build",
     "dev": "next",
