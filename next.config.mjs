@@ -16,6 +16,6 @@ const config = {
   },
   output: 'export',
   distDir: 'out',
-}
+};
 
 export default config;
